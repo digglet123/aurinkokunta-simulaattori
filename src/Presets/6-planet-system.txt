@@ -1,0 +1,7 @@
+t star; m100; p0,0,0; v0,0,0
+t small planet; m1; p-910,0,0; v0,1,0
+t planet; m2; p910,0,0; v0,-1,0
+t planet; m4; p0,360,0; v1.55,0,0
+t large planet; m4; p0,-360,0; v-1.55,0,0
+t planet; m2; p0,140,0; v2.4,0,0
+t small planet; m2; p0,-140,0; v-2.4,0,0
